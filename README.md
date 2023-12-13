@@ -1,4 +1,4 @@
-# Fiverpod Sample
+# Riverpod Sample
 
 ### Riverpodの利用例サンプルです  
 
