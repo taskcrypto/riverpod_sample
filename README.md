@@ -1,6 +1,19 @@
-# simpletest
+# Fiverpod Sample
 
-A new Flutter project.
+### Riverpodの利用例サンプルです  
+
+boolをプロバイダーで切り替えて参照する例です。   
+- bool値を切り替えるだけのサンプル  
+    - lib/riverpod_sample/simple.dart  
+- Methodをつけてより実用的に  
+    - lib/riverpod_sample/method.dart
+- CodeGeneration対応  
+    - lib/riverpod_sample/generator.dart 
+
+[riverpod公式WEBページ](https://riverpod.dev/)  
+[about_code_generation](https://riverpod.dev/docs/concepts/about_code_generation)
+
+<br>
 
 ## Getting Started
 
